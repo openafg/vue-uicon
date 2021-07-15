@@ -1,7 +1,7 @@
 {
   "name": "@openafg/vue-uicon",
   "version": "1.0.0",
-  "description": "Use your SVG icons easily with uicon",
+  "description": "Use your SVG icons easily with vue-uicon",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
