@@ -1,0 +1,24 @@
+{
+  "name": "@openafg/vue-uicon",
+  "version": "1.0.0",
+  "description": "Use your SVG icons easily with uicon",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openafg/vue-uicon.git"
+  },
+  "keywords": [
+    "vue",
+    "icon",
+    "svg"
+  ],
+  "author": "https://afgprogrammer.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openafg/vue-uicon/issues"
+  },
+  "homepage": "https://github.com/openafg/vue-uicon#readme"
+}
