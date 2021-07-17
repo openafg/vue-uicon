@@ -33,8 +33,8 @@ Vue.use(Uicon, {
 ```
 Available props
 ```html
- <template>
-   <ui-icon name="iconName" color="#00f" size="40"></ui-icon>
+<template>
+   <ui-icon name="iconName" color="#00f" size="40" viewBox="0 0 32 32"></ui-icon>
 </template>
 ```
 ## Options
